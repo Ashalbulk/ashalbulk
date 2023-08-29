@@ -1,1 +1,1 @@
-[![](https://github.com/ashalbulk/ashalbulk/blob/master/img/foxes.gif)](https://ownrock.com)
+[![](https://github.com/Ashalbulk/ashalbulk/blob/main/img/foxes.gif)](https://ownrock.com)
